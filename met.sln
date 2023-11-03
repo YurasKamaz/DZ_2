@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programm", "Programm\Programm.csproj", "{9E427FAA-2B76-44F7-A983-60999DA6EF43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meth", "meth\meth.csproj", "{B6F09220-6AC0-469D-A5DB-9ECA58A2E6D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{659A4B8F-EE67-42D5-8E26-CAE77A3F2179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E427FAA-2B76-44F7-A983-60999DA6EF43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E427FAA-2B76-44F7-A983-60999DA6EF43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E427FAA-2B76-44F7-A983-60999DA6EF43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E427FAA-2B76-44F7-A983-60999DA6EF43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F09220-6AC0-469D-A5DB-9ECA58A2E6D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F09220-6AC0-469D-A5DB-9ECA58A2E6D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F09220-6AC0-469D-A5DB-9ECA58A2E6D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F09220-6AC0-469D-A5DB-9ECA58A2E6D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659A4B8F-EE67-42D5-8E26-CAE77A3F2179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659A4B8F-EE67-42D5-8E26-CAE77A3F2179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659A4B8F-EE67-42D5-8E26-CAE77A3F2179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659A4B8F-EE67-42D5-8E26-CAE77A3F2179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
